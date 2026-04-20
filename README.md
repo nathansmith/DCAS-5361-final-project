@@ -34,7 +34,7 @@ For the purposes of this project I focused on five data sets, primarily sourced 
 
 ![Sheet 1](./images/ukraine-sheet-1.png)
 
-This is a financial breakdown the military aid provided by both European countries and the United States. It contains five subcategories.
+This is a financial breakdown of the military aid provided by both European countries and the United States. It contains five subcategories.
 
 - Ammunition (heavy weapons)
 - Anti-aircraft systems
