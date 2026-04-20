@@ -3,6 +3,8 @@
 > This repo contains data and files used in my final project for DCAS 5361.
 >
 > It is a core class in the [MS DCA](https://www.unt.edu/academics/programs/digital-communication-analytics-masters.html) program at University of North Texas.
+>
+> Narrated video:<br />https://youtu.be/gstMXt2rHDo
 
 # Ukraine by the numbers
 
